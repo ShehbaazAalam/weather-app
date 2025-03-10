@@ -1,4 +1,4 @@
-:
+
 🌦️ Weather App
 A simple and responsive weather application built using React.js, fetching real-time weather data through an API.
 
